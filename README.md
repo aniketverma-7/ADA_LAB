@@ -1,4 +1,4 @@
-# ADA_LAB
+# ADA Lab Assignment
 
 Name : Aniket Verma
 Enrollment : 0827CO191012
@@ -34,35 +34,3 @@ Unit 4 :
 Unit 5 :
     1. Binary_Search_Tree.cpp
     2. Graph_BFS_DFS.cpp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
