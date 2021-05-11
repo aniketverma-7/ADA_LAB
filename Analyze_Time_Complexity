@@ -1,9 +1,0 @@
-In linear search the worst case scenario time will be O(n)
-because we have traverse each and every element in the list and we 
-might not find it or find it at last.
-In Binary search the worst case scenario time will be O(log n)
-because each time we split our list into two and traverse only that
-list thats range satisfied out target value
-
-However for binary search to work list have to sorted and this is the 
-only bound for it to work  but linear search can be work in any way because it search each element one at time.
