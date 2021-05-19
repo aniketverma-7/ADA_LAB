@@ -62,8 +62,7 @@ void dijkstra(int graph[V][V], int src)
 
 int main()
 {
-	/* Let us create the example graph discussed above */
-	int graph[V][V] = { { 0, 4, 0, 0, 0, 0, 0, 8, 0 },
+	int graph[V][V] = 			{ { 0, 4, 0, 0, 0, 0, 0, 8, 0 },
 						{ 4, 0, 8, 0, 0, 0, 0, 11, 0 },
 						{ 0, 8, 0, 7, 0, 4, 0, 0, 2 },
 						{ 0, 0, 7, 0, 9, 14, 0, 0, 0 },
